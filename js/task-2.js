@@ -1,5 +1,3 @@
-"use strict";
-
 const allUsers = [
   {
     name: "Moore Hensley",
